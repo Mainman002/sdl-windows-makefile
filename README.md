@@ -6,6 +6,11 @@ Clone project
 git clone https://github.com/Mainman002/sdl-windows-makefile.git
 ```
 
+Open the new folder or enter this command
+```
+cd .\sdl-windows-makefile\
+```
+
 Open a command promt in the new folder and enter
 ```
 make
